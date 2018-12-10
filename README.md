@@ -1,4 +1,8 @@
 # BlinkID UI for Android
+<a href="https://www.youtube.com/watch?v=nJBJtF7TgBQ" target="_blank">
+	<img src="https://i.imgur.com/yBKxGTs.gif" alt="BlinkID" height=300> 
+</a>
+  
 BlinkId UI is a library that lets you scan any BlinkID supported document without even knowing what a `Recognizer` is.
 
 It includes customisable scan activity and country selection activity.
